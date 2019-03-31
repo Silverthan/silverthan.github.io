@@ -1,13 +1,321 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-31T16:18:45+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Silverthan Blog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2019/03/23/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-03-23T20:14:47+01:00</published><updated>2019-03-23T20:14:47+01:00</updated><id>http://localhost:4000/jekyll/update/2019/03/23/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/03/23/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-31T16:27:10+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Silverthan Blog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Email Marketing Reading List #013</title><link href="http://localhost:4000/email-marketing-reading-list-013/" rel="alternate" type="text/html" title="Email Marketing Reading List #013" /><published>2017-01-29T18:01:25+01:00</published><updated>2017-01-29T18:01:25+01:00</updated><id>http://localhost:4000/email-marketing-reading-list-013</id><content type="html" xml:base="http://localhost:4000/email-marketing-reading-list-013/">&lt;p&gt;Gain immediate insight into more Email Marketing content goodness! Our coveted Email Marketing Reading List continues with a few more great reads from all over the web. Once again, you will be able to gain insight into the world around you and the value you will receive here is second to none.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;That’s what makes the content worth it, as it’s genuine and very helpful. Just check it out right away.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;h2 id=&quot;email-marketing-articles&quot;&gt;Email Marketing Articles&lt;/h2&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-946&quot; src=&quot;http://silverthan.com/wp-content/uploads/2016/12/email-marketing-articles.jpg&quot; alt=&quot;Email Marketing Articles&quot; width=&quot;535&quot; height=&quot;171&quot; srcset=&quot;http://silverthan.com/wp-content/uploads/2016/12/email-marketing-articles.jpg 535w, http://silverthan.com/wp-content/uploads/2016/12/email-marketing-articles-300x96.jpg 300w&quot; sizes=&quot;(max-width: 535px) 100vw, 535px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;h3 id=&quot;2017-will-be-the-year-of-interactive-email&quot;&gt;&lt;a href=&quot;https://medium.dave-bailey.com/2017-is-the-year-of-interactive-email-b6c1c4960c72#.h702czrxf&quot;&gt;2017 Will Be The Year Of Interactive Email&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;25-email-geeks-to-help-you-get-your-geek-on&quot;&gt;&lt;a href=&quot;http://resources.expertsender.com/25-email-geeks-to-help-you-get-your-geek-on&quot;&gt;25 Email Geeks to help you get your geek on&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;five-ways-email-will-evolve-in-2017&quot;&gt;&lt;a href=&quot;http://www.selligent.com/blog/advice/five-ways-email-will-evolve-in-2017&quot;&gt;Five Ways Email Will Evolve in 2017&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;how-to-combat-social-media-reach-decline-and-ad-blocking-with-email-marketing&quot;&gt;&lt;a href=&quot;https://www.campaignmonitor.com/blog/email-marketing/2017/01/social-media-decline-adblocking/&quot;&gt;How to combat social media reach decline and ad blocking with email marketing&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;email-accessibility-in-2017&quot;&gt;&lt;a href=&quot;https://www.emailonacid.com/blog/article/email-development/email-accessibilty-in-2017/&quot;&gt;Email Accessibility in 2017&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;You should consider giving this Email Marketing Reading List a shot, it will be a great read and a very informative one as well.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;</content><author><name>Thanos</name></author><summary type="html">Gain immediate insight into more Email Marketing content goodness! Our coveted Email Marketing Reading List continues with a few more great reads from all over the web. Once again, you will be able to gain insight into the world around you and the value you will receive here is second to none.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/wp-content/uploads/2017/01/email-marketing-reading-list-013-100x100.jpg" /></entry><entry><title type="html">Email Marketing Reading List #012</title><link href="http://localhost:4000/email-marketing-reading-list-012/" rel="alternate" type="text/html" title="Email Marketing Reading List #012" /><published>2016-12-12T21:00:28+01:00</published><updated>2016-12-12T21:00:28+01:00</updated><id>http://localhost:4000/email-marketing-reading-list-012</id><content type="html" xml:base="http://localhost:4000/email-marketing-reading-list-012/">&lt;p&gt;Welcome to a new entry in our Email Marketing Reading List series, a collection of hand-picked email marketing articles.&lt;/p&gt;
+
+&lt;p&gt;This time you will get another great insight into the world of Email Marketing, you will understand how it works and you will also get some amazing tips with regards to using &lt;strong&gt;alt text in emails&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;email-marketing-articles&quot;&gt;Email Marketing Articles&lt;/h2&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-946&quot; src=&quot;http://silverthan.com/wp-content/uploads/2016/12/email-marketing-articles.jpg&quot; alt=&quot;Email Marketing Articles&quot; width=&quot;535&quot; height=&quot;171&quot; srcset=&quot;http://silverthan.com/wp-content/uploads/2016/12/email-marketing-articles.jpg 535w, http://silverthan.com/wp-content/uploads/2016/12/email-marketing-articles-300x96.jpg 300w&quot; sizes=&quot;(max-width: 535px) 100vw, 535px&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;mastering-styled-alt-text-in-email&quot;&gt;&lt;a href=&quot;https://www.emailonacid.com/blog/article/email-development/mastering-alt-text-in-email&quot;&gt;Mastering Styled Alt Text in Email&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;the-ultimate-guide-to-styled-alt-text-in-email&quot;&gt;&lt;a href=&quot;https://litmus.com/blog/the-ultimate-guide-to-styled-alt-text-in-email&quot;&gt;The Ultimate Guide to Styled ALT Text in Email&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;why-you-need-alt-text-in-your-emails&quot;&gt;&lt;a href=&quot;https://www.campaignmonitor.com/resources/guides/alt-text-in-email/&quot;&gt;Why you need alt text in your emails&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;remember-to-style-your-alt-text&quot;&gt;&lt;a href=&quot;https://webdesign.tutsplus.com/articles/quick-tip-remember-to-style-your-alt-text--webdesign-12928&quot;&gt;Remember to Style Your ALT Text&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;The links above will take you to some very nice blog posts which will provide you with insight about advanced email coding an html email developer can take advantage of.&lt;/p&gt;
+
+&lt;p&gt;If you really want to study the world of Email Marketing and improve your approach, these are great, must-read articles that you will enjoy!&lt;/p&gt;
+
+&lt;p&gt;Thank you for making all the way to the bottom!&lt;/p&gt;</content><author><name>Thanos</name></author><category term="alt text in emails" /><category term="Email Marketing" /><category term="Email Marketing Articles" /><category term="reading list" /><summary type="html">Welcome to a new entry in our Email Marketing Reading List series, a collection of hand-picked email marketing articles.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/wp-content/uploads/2016/12/email-marketing-reading-list-012-100x100.jpg" /></entry><entry><title type="html">Email Marketing Articles #011</title><link href="http://localhost:4000/email-marketing-reading-list-011/" rel="alternate" type="text/html" title="Email Marketing Articles #011" /><published>2016-12-04T16:14:12+01:00</published><updated>2016-12-04T16:14:12+01:00</updated><id>http://localhost:4000/email-marketing-reading-list-011</id><content type="html" xml:base="http://localhost:4000/email-marketing-reading-list-011/">&lt;p&gt;Do you want to learn more about the great world of Email Marketing? Our reading list continues with some very interesting, high quality email marketing articles that everyone should be able to relate to and enjoy. This time, you will have the ability to learn more about the best approach you can have in the world of Email Marketing, how you can provide more value to your readers and many others.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-946&quot; src=&quot;http://silverthan.com/wp-content/uploads/2016/12/email-marketing-articles.jpg&quot; alt=&quot;Email Marketing Articles&quot; width=&quot;535&quot; height=&quot;171&quot; srcset=&quot;http://silverthan.com/wp-content/uploads/2016/12/email-marketing-articles.jpg 535w, http://silverthan.com/wp-content/uploads/2016/12/email-marketing-articles-300x96.jpg 300w&quot; sizes=&quot;(max-width: 535px) 100vw, 535px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you enjoy the world of Email Marketing, these are great Email Marketing articles to read and enjoy.&lt;/p&gt;
+
+&lt;p&gt;Don’t hesitate and check out the &lt;a href=&quot;http://silverthan.com/category/email-marketing/&quot;&gt;other entries&lt;/a&gt; in our Email Marketing Reading List!&lt;/p&gt;
+
+&lt;h3 id=&quot;how-to-test-your-holiday-email-marketing-campaigns&quot;&gt;&lt;a href=&quot;https://sendgrid.com/blog/how-to-test-your-holiday-email-marketing-campaigns/&quot;&gt;How to Test Your Holiday Email Marketing Campaigns&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;the-ultimate-guide-to-web-fonts&quot;&gt;&lt;a href=&quot;https://litmus.com/blog/the-ultimate-guide-to-web-fonts&quot;&gt;The Ultimate Guide to Web Fonts&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;how-we-monitored-gmail-for-their-media-query-support-update&quot;&gt;&lt;a href=&quot;https://www.emailonacid.com/blog/details/C4/how-we-monitored-gmail-for-their-media-query-support-update&quot;&gt;How We Monitored Gmail For Their Media Query Support Update&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;how-to-use-your-response-data-to-send-better-email&quot;&gt;&lt;a href=&quot;http://myemma.com/blog/article/how-to-use-your-response-data-to-send-better-email#When:14:17Z&quot;&gt;How to use your response data to send better email&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;email-marketing-for-startup--tips-to-skyrocket-brand-visibility&quot;&gt;&lt;a href=&quot;http://www.emailmonks.com/blog/email-marketing/email-marketing-startups-skyrocket-brand/&quot;&gt;Email Marketing for Startup – Tips to Skyrocket Brand Visibility&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;I hope you enjoyed these email marketing articles, I hope I will keep this email marketing reading list going on for a long time.&lt;/p&gt;
+
+&lt;p&gt;Follow me on &lt;a href=&quot;https://twitter.com/silverthan&quot;&gt;Twitter&lt;/a&gt; to say hi.&lt;/p&gt;</content><author><name>Thanos</name></author><category term="Email Marketing" /><category term="Email Marketing Articles" /><category term="reading list" /><summary type="html">Do you want to learn more about the great world of Email Marketing? Our reading list continues with some very interesting, high quality email marketing articles that everyone should be able to relate to and enjoy. This time, you will have the ability to learn more about the best approach you can have in the world of Email Marketing, how you can provide more value to your readers and many others.</summary></entry><entry><title type="html">YouTube Marketing Notes</title><link href="http://localhost:4000/youtube-marketing-notes/" rel="alternate" type="text/html" title="YouTube Marketing Notes" /><published>2016-09-19T09:31:24+02:00</published><updated>2016-09-19T09:31:24+02:00</updated><id>http://localhost:4000/youtube-marketing-notes</id><content type="html" xml:base="http://localhost:4000/youtube-marketing-notes/">&lt;p&gt;I recently took a youtube marketing course, just wanted to see how all these marketers are making so much money while uploading videos to the popular video streaming site.&lt;/p&gt;
+
+&lt;p&gt;The instructor was advertising that you can even make money without any original content of yours, so the clickbait worked 🙂 and it was cheap ($10) so why not.&lt;/p&gt;
+
+&lt;p&gt;I made some notes on paper that they’ve been hanging around on different places of my desk for quite some time now, therefore I decided to put them online and throw the paper (it started getting really dirty as well).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;SocialBlade.com -&amp;gt; statistics, analysis and earnings&lt;/p&gt;
+
+&lt;h4 id=&quot;always-edit-the-videos&quot;&gt;Always Edit the Videos&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add Title&lt;/li&gt;
+  &lt;li&gt;Edit Videos&lt;/li&gt;
+  &lt;li&gt;Combine Relevant Videos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Don’t use the music ? from the Editor, only ad-free and available for monetisation.&lt;/p&gt;
+
+&lt;h3 id=&quot;content&quot;&gt;Content&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt; Keywords in the beginning&lt;/li&gt;
+  &lt;li&gt;Longer descriptions work&lt;/li&gt;
+  &lt;li&gt;Put links in the description&lt;/li&gt;
+  &lt;li&gt;Lots of tags / phrases&lt;/li&gt;
+  &lt;li&gt;? Go back to old films and add / change stuff&lt;/li&gt;
+  &lt;li&gt;Actual order of the tags is not relevant&lt;/li&gt;
+  &lt;li&gt;Add a special tag for relevant films that is simple, unique and long ▶️ helps with related&lt;/li&gt;
+  &lt;li&gt;Nice and clear thumbnail ▶️ Big letter – don’t use bottom right corner&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;annotations&quot;&gt;Annotations&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Very important tool for cross selling, subscriptions etc  – at the end of the video send them to the next one&lt;/li&gt;
+  &lt;li&gt;Speech bubble (someone’s talking)&lt;/li&gt;
+  &lt;li&gt;Note&lt;/li&gt;
+  &lt;li&gt;Spotlight ▶️ links an area&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;playlists&quot;&gt;Playlists&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Can have quite a few&lt;/li&gt;
+  &lt;li&gt;Using a playlist, next film will play (better be yours ?)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;channel-settings&quot;&gt;Channel Settings&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Private by default&lt;/li&gt;
+  &lt;li&gt;Common tags&lt;/li&gt;
+  &lt;li&gt;Invisible statistics&lt;/li&gt;
+  &lt;li&gt;Invideo Programming ▶️ Add a branding watermark ▶️ Featured playlist (at the end)&lt;/li&gt;
+  &lt;li&gt;Fan finder ▶️ Free ad from Youtube, create a trailer&lt;/li&gt;
+  &lt;li&gt;? End slate ▶️ Text box with a link at the end leading to the subscription page ▶️ Save a video as an End Slate and publish it as private, can then drag it at the end of the film ▶️ Add an annotation to link to subscribe page (spotlight)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;analytics&quot;&gt;Analytics&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Understand your demo graphics (country, age, sex) and use the appropriate tone&lt;/li&gt;
+  &lt;li&gt;Device segmentation&lt;/li&gt;
+  &lt;li&gt;Audience retention is the most important ▶️ Don’t count only views ▶️ How many minutes watched? ▶️ Where do people pause / leave?&lt;/li&gt;
+  &lt;li&gt;More views ≠ More money ⚠️&lt;/li&gt;
+  &lt;li&gt;Engagement reports&lt;/li&gt;
+  &lt;li&gt;Viewers from small countries don’t make money&lt;/li&gt;
+  &lt;li&gt;Dislikes are not necessarily negative&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;video-licensing&quot;&gt;Video Licensing&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Creative Commons ▶️ Attribution License&lt;/li&gt;
+  &lt;li&gt;T.A.S.L Rule – &lt;strong&gt;T&lt;/strong&gt;itle, &lt;strong&gt;A&lt;/strong&gt;uthor, &lt;strong&gt;S&lt;/strong&gt;ource, &lt;strong&gt;L&lt;/strong&gt;icense&lt;br /&gt;
+e.g This video features “My elephant” (http://www.vimeo.com/…) bu John Smith which is licensed under CC BY http://creativecommons.org/…&lt;/li&gt;
+  &lt;li&gt;Vimeo Advanced Filters – HD Quality + is downloadable&lt;/li&gt;
+  &lt;li&gt;Beachfrontbroll.com – Free HD stock video to download&lt;/li&gt;
+  &lt;li&gt;Eso.org&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;And this is it!&lt;/p&gt;
+
+&lt;p&gt;There’s still a lot of work involved if you want to make money from youtube marketing, but some tips actually make sense and you can use them to enhance your existing videos and youtube presence.&lt;/p&gt;</content><author><name>Thanos</name></author><category term="annotations" /><category term="channel settings" /><category term="youtube marketing" /><summary type="html">I recently took a youtube marketing course, just wanted to see how all these marketers are making so much money while uploading videos to the popular video streaming site.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/wp-content/uploads/2016/09/youtube-marketing-notes-100x100.jpg" /></entry><entry><title type="html">Email Marketing Reading List #010</title><link href="http://localhost:4000/email-marketing-reading-list-010/" rel="alternate" type="text/html" title="Email Marketing Reading List #010" /><published>2016-09-07T18:58:48+02:00</published><updated>2016-09-07T18:58:48+02:00</updated><id>http://localhost:4000/email-marketing-reading-list-010</id><content type="html" xml:base="http://localhost:4000/email-marketing-reading-list-010/">&lt;p&gt;One, two, three, four, five, six, seven, eight, nine… TEN!&lt;/p&gt;
+
+&lt;p&gt;10 reading lists have been published in this blog, here’s to making them a 100! (No emoji on purpose).&lt;/p&gt;
+
+&lt;h3 id=&quot;who-owns-the-email-inbox-subscribers-inbox-providers-or-senders&quot;&gt;&lt;a href=&quot;https://litmus.com/blog/who-owns-the-email-inbox-subscribers-inbox-providers-or-senders&quot;&gt;Who Owns the Email Inbox: Subscribers, Inbox Providers, or Senders?&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;putting-a-human-touch-on-email-marketing&quot;&gt;&lt;a href=&quot;https://www.emailonacid.com/blog/article/email-marketing/putting-a-human-touch-on-email-marketing&quot;&gt;Putting a Human Touch on Email Marketing&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;how-to-customize-an-email-template-in-7-simple-steps&quot;&gt;&lt;a href=&quot;https://www.campaignmonitor.com/blog/email-marketing/2016/05/customize-email-template-7-simple-steps/&quot;&gt;How to customize an email template in 7 simple steps&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;can-we-put-the-free-myth-to-bed&quot;&gt;[Can we put the “FREE!!!” Myth to bed?&lt;/h3&gt;
+&lt;p&gt;](https://www.campaignmonitor.com/blog/email-marketing/2016/05/customize-email-template-7-simple-steps/)&lt;/p&gt;
+
+&lt;h3 id=&quot;2016-gmail-and-microsoft-dmarc-update&quot;&gt;&lt;a href=&quot;https://sendgrid.com/blog/2016-gmail-and-microsoft-dmarc-update/&quot;&gt;2016 Gmail and Microsoft DMARC Update&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Read well.&lt;/p&gt;</content><author><name>Thanos</name></author><category term="dmarc update" /><category term="Email Marketing" /><category term="reading list" /><summary type="html">One, two, three, four, five, six, seven, eight, nine… TEN!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/wp-content/uploads/2016/06/email-marketing-reading-list-010-100x100.jpg" /></entry><entry><title type="html">Email Marketing Reading List #009</title><link href="http://localhost:4000/email-marketing-reading-list-009/" rel="alternate" type="text/html" title="Email Marketing Reading List #009" /><published>2016-05-01T10:19:08+02:00</published><updated>2016-05-01T10:19:08+02:00</updated><id>http://localhost:4000/email-marketing-reading-list-009</id><content type="html" xml:base="http://localhost:4000/email-marketing-reading-list-009/">&lt;p&gt;The Email Marketing Reading List #009 for your reading pleasure.&lt;/p&gt;
+
+&lt;h3 id=&quot;tutorial-build-an-interactive-carousel-for-email&quot;&gt;&lt;a href=&quot;https://www.emailonacid.com/blog/article/email-development/build-an-interactive-carousel-for-email/&quot;&gt;Tutorial: Build an Interactive Carousel for Email&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;via Email on Acid&lt;/p&gt;
+
+&lt;h3 id=&quot;25-free-responsive-hybrid--mobile-aware-email-templates&quot;&gt;&lt;a href=&quot;https://litmus.com/blog/25-free-responsive-hybrid-mobile-aware-email-templates&quot;&gt;25 Free Responsive, Hybrid + Mobile-Aware Email Templates&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;via Litmus&lt;/p&gt;
+
+&lt;h3 id=&quot;email-marketing-101-determining-the-value-of-a-subscriber-entry-title&quot;&gt;&lt;a href=&quot;http://blog.movableink.com/email-marketing-101-determining-the-value-of-a-subscriber/&quot;&gt;Email Marketing 101: Determining the value of a subscriber&lt;/a&gt; {.entry-title}&lt;/h3&gt;
+
+&lt;p&gt;via Movable Ink&lt;/p&gt;
+
+&lt;h3 id=&quot;insight-into-gmail-filtering&quot;&gt;&lt;a href=&quot;https://wordtothewise.com/2016/04/insight-into-gmail-filtering/&quot;&gt;Insight into Gmail filtering&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;via Words to the Wise&lt;/p&gt;
+
+&lt;h3 id=&quot;9-questions-to-ask-when-choosing-an-esp&quot;&gt;&lt;a href=&quot;https://www.emailonacid.com/blog/article/email-marketing/9-questions-to-ask-when-choosing-an-esp&quot;&gt;9 Questions to Ask When Choosing an ESP&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;via Email on Acid&lt;/p&gt;</content><author><name>Thanos</name></author><category term="Email Marketing" /><category term="reading list" /><summary type="html">The Email Marketing Reading List #009 for your reading pleasure.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/wp-content/uploads/2016/04/email-marketing-reading-list-009-100x100.jpg" /></entry><entry><title type="html">Email Marketing Reading List #008</title><link href="http://localhost:4000/email-marketing-reading-list-008/" rel="alternate" type="text/html" title="Email Marketing Reading List #008" /><published>2016-01-30T12:57:23+01:00</published><updated>2016-01-30T12:57:23+01:00</updated><id>http://localhost:4000/email-marketing-reading-list-008</id><content type="html" xml:base="http://localhost:4000/email-marketing-reading-list-008/">&lt;p&gt;Email Marketing Reading List #008 is back with the New Year. In today’s post we are sharing posts from respected email marketing professionals, containing lessons learned in 2015 + their predictions for 2016 and more. Enjoy!&lt;/p&gt;
+
+&lt;h3 id=&quot;5-email-marketing-best-practices-for-the-new-year&quot;&gt;&lt;a href=&quot;https://www.campaignmonitor.com/blog/email-marketing/2016/01/email-marketing-best-practices-for-the-new-year/&quot;&gt;5 email marketing best practices for the new year&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;via Campaign Monitor&lt;/p&gt;
+
+&lt;h3 id=&quot;the-benefits-of-email-marketing-in-2016&quot;&gt;&lt;a href=&quot;https://sendgrid.com/blog/the-benefits-of-email-marketing-in-2016/&quot;&gt;The Benefits of Email Marketing in 2016&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;via SendGrid&lt;/p&gt;
+
+&lt;h3 id=&quot;top-2015-email-marketing-stats-what-weve-learned&quot;&gt;&lt;a href=&quot;http://blog.movableink.com/what-weve-learned-top-2015-email-marketing-stats/&quot;&gt;Top 2015 Email Marketing Stats: What We’ve Learned&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;via Movable Ink&lt;/p&gt;
+
+&lt;h3 id=&quot;4-key-design-principles-for-emails-in-2016--beyond&quot;&gt;&lt;a href=&quot;http://www.emaildesignreview.com/email-design-best-practice/4-key-design-principles-for-emails-in-2016-beyond-2942/&quot;&gt;4 Key Design Principles for Emails in 2016 &amp;amp; Beyond&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;via Email Design Review&lt;/p&gt;
+
+&lt;h3 id=&quot;5-predictions-for-email-in-2016&quot;&gt;&lt;a href=&quot;https://www.emailonacid.com/blog/article/industry-news/5-predictions-for-email-in-2016/&quot;&gt;5 Predictions for Email in 2016&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;via Email on Acid&lt;/p&gt;</content><author><name>Thanos</name></author><category term="Email Marketing" /><category term="reading list" /><summary type="html">Email Marketing Reading List #008 is back with the New Year. In today’s post we are sharing posts from respected email marketing professionals, containing lessons learned in 2015 + their predictions for 2016 and more. Enjoy!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/wp-content/uploads/2016/01/email-marketing-reading-list-008-100x100.jpg" /></entry><entry><title type="html">Email Marketing Reading List #007</title><link href="http://localhost:4000/email-marketing-reading-list-007/" rel="alternate" type="text/html" title="Email Marketing Reading List #007" /><published>2015-05-17T09:05:16+02:00</published><updated>2015-05-17T09:05:16+02:00</updated><id>http://localhost:4000/email-marketing-reading-list-007</id><content type="html" xml:base="http://localhost:4000/email-marketing-reading-list-007/">&lt;p&gt;Email Marketing Reading List #007 – recommended by James Bond himself – is now available for your reading pleasure. This week we have some interesting articles with a diverse thematology including spam filters and email subject line length. Enjoy!&lt;/p&gt;
+
+&lt;h3 id=&quot;4-things-spammers-do-legitimate-marketers-dont&quot;&gt;&lt;a href=&quot;https://wordtothewise.com/2015/05/4-things-spammers-do-legitimate-marketers-dont/&quot;&gt;4 things spammers do legitimate marketers don’t&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;via Words to the Wise&lt;/p&gt;
+
+&lt;h3 id=&quot;email-vs-social-media-roi-in-one-simple-chart&quot;&gt;&lt;a href=&quot;http://blog.movableink.com/email-vs-social-media-roi/&quot;&gt;Email vs. Social Media ROI in One Simple Chart&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;via Movable Ink&lt;/p&gt;
+
+&lt;h3 id=&quot;the-final-word-on-email-subject-line-length&quot;&gt;&lt;a href=&quot;https://phrasee.co/the-final-word-on-email-subject-line-length/&quot;&gt;The final word on email subject line length&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;via Phrasee&lt;/p&gt;
+
+&lt;h3 id=&quot;return-paths-guide-to-spam-filters--an-excerpt&quot;&gt;&lt;a href=&quot;http://blog.returnpath.com/blog/dana-hutens-blog/return-paths-guide-to-spam-filters-an-excerpt&quot;&gt;Return Path’s Guide to Spam Filters – An Excerpt&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;via Return Path&lt;/p&gt;
+
+&lt;h3 id=&quot;resending-email-good-idea-or-terrible-idea&quot;&gt;&lt;a href=&quot;https://sendgrid.com/blog/resending-email-good-idea-terrible-idea/&quot;&gt;Resending Email: Good Idea or Terrible Idea?&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;via SendGrid&lt;/p&gt;</content><author><name>Thanos</name></author><category term="Email Marketing" /><category term="reading list" /><summary type="html">Email Marketing Reading List #007 – recommended by James Bond himself – is now available for your reading pleasure. This week we have some interesting articles with a diverse thematology including spam filters and email subject line length. Enjoy!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/wp-content/uploads/2015/05/email-marketing-reading-list-007-100x100.jpg" /></entry><entry><title type="html">Mini Interview with Jaina Mistry</title><link href="http://localhost:4000/mini-interview-with-jaina-mistry/" rel="alternate" type="text/html" title="Mini Interview with Jaina Mistry" /><published>2015-05-05T21:00:55+02:00</published><updated>2015-05-05T21:00:55+02:00</updated><id>http://localhost:4000/mini-interview-with-jaina-mistry</id><content type="html" xml:base="http://localhost:4000/mini-interview-with-jaina-mistry/">&lt;p&gt;Continuing the mini interviews with web and email marketing professionals, this week I had the pleasure to interview &lt;a href=&quot;http://jainamistry.com/&quot;&gt;Jaina Mistry&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Jaina is an experienced email marketing professional from the UK, currently based in Bahrain and working remotely for a start-up in London. She also enjoys photography and a good film. You can read more about her at her personal blog &lt;a href=&quot;http://time-wellspent.com/&quot;&gt;time-wellspent.com&lt;/a&gt; or say hello &lt;a href=&quot;https://twitter.com/jainamistry&quot;&gt;on twitter&lt;/a&gt; where she’s a regular on the #emailgeeks hashtag and not only.&lt;/p&gt;
+
+&lt;p&gt;Let’s see what did we talk about:&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-your-favorite-email-app&quot;&gt;What is your favorite email app?&lt;/h3&gt;
+
+&lt;p&gt;This is a bit of a strange one, but I don’t actually have one. I use Gmail via Chrome when I’m on my laptop and also the Gmail app on my Nexus 4. Yes, it’s terrible at rendering email, but I still find it incredibly useful for the actual email side of things. Perhaps I just need to be enlightened.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h3 id=&quot;can-you-share-the-homescreen-of-your-iphone--android-phone&quot;&gt;Can you share the homescreen of your iPhone / Android phone?&lt;figure id=&quot;attachment_876&quot; style=&quot;width: 614px&quot; class=&quot;wp-caption alignnone&quot;&gt;&lt;/figure&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&quot;size-large wp-image-876&quot; src=&quot;http://silverthan.com/wp-content/uploads/2015/05/Screenshot_2015-04-23-22-45-59-614x1024.png&quot; alt=&quot;Jaina's Hoemscreen&quot; width=&quot;614&quot; height=&quot;1024&quot; srcset=&quot;http://silverthan.com/wp-content/uploads/2015/05/Screenshot_2015-04-23-22-45-59-614x1024.png 614w, http://silverthan.com/wp-content/uploads/2015/05/Screenshot_2015-04-23-22-45-59-180x300.png 180w, http://silverthan.com/wp-content/uploads/2015/05/Screenshot_2015-04-23-22-45-59.png 768w&quot; sizes=&quot;(max-width: 614px) 100vw, 614px&quot; /&gt; &amp;lt;figcaption class=&quot;wp-caption-text&quot;&amp;gt;Jaina’s Homescreen&amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Here it is. Nothing spectacular – stock android with my most used apps right in front of me. My backgrounds are via the app &lt;a href=&quot;https://play.google.com/store/apps/details?id=net.nurik.roman.muzei&quot;&gt;Muzei&lt;/a&gt; and the clock is &lt;a href=&quot;https://play.google.com/store/apps/details?id=ch.bitspin.timely&quot;&gt;Timely’s clock &lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;email-coding-can-some-times-be-a-pain-what-is-the-most-common--favourite-hack-you-use-in-your-templates&quot;&gt;Email coding can some times be a pain. What is the most common / favourite hack you use in your templates.&lt;/h3&gt;
+
+&lt;p&gt;One hack I use pretty much every single day is Actionrocket Lab’s &lt;a href=&quot;http://labs.actionrocket.co/make_mobile_email_work_in_outlook&quot;&gt;Ghost Column hack&lt;/a&gt; – a lot of our customers still use Outlook 2007-13 and this one is pretty much indispensable for me. Oh and, to get around Gmail’s issue the min-width fix to force the width of container tables.&lt;/p&gt;
+
+&lt;h3 id=&quot;email-is-not-dead-how-do-you-see-the-future-for-the-email-marketing-professionals&quot;&gt;Email is (not) dead. How do you see the future for the email marketing professionals?&lt;/h3&gt;
+
+&lt;p&gt;It’s just going to get bigger. Years ago, I started out in web design and development. Where you were a web designer and a jack of all trades. Quickly, the web design field started to get very fragmented with all sorts of specialities popping up. I feel like that’s exactly what’s happening with email marketing at the moment with people specialising in just the design, build, accessibility, deliverability, copy writing, etc. It’s pretty exciting.&lt;/p&gt;
+
+&lt;h3 id=&quot;youre-into-photography-as-well-do-you-have-a-special-workflow-for-the-organization-of-your-pics-what-apps--platforms-do-you-use-for-editing--publishing&quot;&gt;You’re into photography as well. Do you have a special workflow for the organization of your pics. What apps / platforms do you use for editing / publishing?&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone wp-image-878 size-large&quot; src=&quot;http://silverthan.com/wp-content/uploads/2015/05/photo-1024x680.jpg&quot; alt=&quot;photo&quot; width=&quot;1024&quot; height=&quot;680&quot; srcset=&quot;http://silverthan.com/wp-content/uploads/2015/05/photo-1024x680.jpg 1024w, http://silverthan.com/wp-content/uploads/2015/05/photo-300x200.jpg 300w, http://silverthan.com/wp-content/uploads/2015/05/photo.jpg 1500w&quot; sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On my camera, I shoot everything in RAW – I like having the extra control over editing my photos. I’ve been using Lightroom to edit the photos for a few years now. My workflow’s nothing out of the ordinary – import the photos onto my Macbook, open them up in Lightroom and begin the cull. Not long ago, I used to keep almost all photos I took – even ones I knew weren’t great. &lt;em&gt;Just in case&lt;/em&gt;. Whatever the &lt;em&gt;just in case&lt;/em&gt; might have been!&lt;/p&gt;
+
+&lt;p&gt;But these days I’m a lot stricter with myself and do maybe 3 passes on one import to really nail down and find the good photos in whatever I’ve been shooting. Learning you have to be really critical in photography to really grow in it. Once I’ve picked out the photos I upload to Google+ Photos. What can I say, I’m a faithful Googler. It’s the ease of use – I can get at these photos wherever I need, once I’ve uploaded them to G+ Photos.&lt;/p&gt;
+
+&lt;p&gt;On my phone (Nexus 4) I use the stock Android camera and depending on the photo I’ll either edit with Snapseed or VSCO. VSCO’s a fairly new discovery for me, and enjoying it so far. In terms of publishing, every day snapshots go up on &lt;a href=&quot;http://instagram.com/jaina.mistry&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, which is mostly what I use my N4’s camera for. It’s a terrible camera! Looking forward to getting my hands on a new phone with a much improved camera system.&lt;/p&gt;
+
+&lt;h3 id=&quot;you-currently-work-remotely-how-was-the-transition-from-the-normal-office-to-your-own-space-do-you-have-any-tips--tools-that-would-be-useful-to-other-remote-workers&quot;&gt;You currently work remotely. How was the transition from the normal office to your own space? Do you have any tips / tools that would be useful to other remote workers?&lt;/h3&gt;
+
+&lt;p&gt;Strangely, it was fairly easy transitioning from a normal office to my own space. I’m pretty good at getting into the “working” mindset wherever I am. Once I’ve clocked-in to working hours, I’m on the job. Though there are some weeks when I never leave home, save for going to the gym, and by the weekend cabin fever can set in.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;
+  Remote working definitely isn&amp;#8217;t for everyone. Though if you want to give it a go, you have to be incredibly disciplined. I think that&amp;#8217;s the biggest part of remote working. Only you can hold yourself accountable and that has to be enough. Take regular breaks. It&amp;#8217;s easy to work remotely from the morning to lunch time and not take a break. Get up and walk around a little bit every hour or so. On the topic of taking breaks &amp;#8211; if you work to a set of office hours (As I do.) make sure you&amp;#8217;ve got some sort of structure to your day. I try to make sure I get up a couple of hours before I have to start work &amp;#8211; I&amp;#8217;ll try to hit the gym before work, have a good breakfast and just sit and read while I eat. No screens, no emails, just some non-work alone time. In the evening I make sure that when I&amp;#8217;ve finished with work, I really am&lt;i&gt; finished&lt;/i&gt; with work. Wind down at the gym or just get away from my desk.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone wp-image-877 size-large&quot; src=&quot;http://silverthan.com/wp-content/uploads/2015/05/workspace-1024x680.jpg&quot; alt=&quot;Jaina's workspace&quot; width=&quot;1024&quot; height=&quot;680&quot; srcset=&quot;http://silverthan.com/wp-content/uploads/2015/05/workspace-1024x680.jpg 1024w, http://silverthan.com/wp-content/uploads/2015/05/workspace-300x200.jpg 300w, http://silverthan.com/wp-content/uploads/2015/05/workspace.jpg 1500w&quot; sizes=&quot;(max-width: 1024px) 100vw, 1024px&quot; /&gt;&lt;br /&gt;
+As for tools, I’ve tried in vain to get the team using the likes of Asana and Trello, however it’s hard to get everyone onboard! We rely a lot on Google Docs for sync’d documents. Skype is the day-to-day communication app. Though with the entire business using Google, we’re slowly transitioning to Google Hangouts. I like to use Evernote to keep track of what I’ve done in a day and what I’ve got to do. Just some simple notes and checklists help me keep on track.&lt;/p&gt;
+
+&lt;h3 id=&quot;for-most-people-thinking-of-bahrain-brings-images-of-luxury-fast-cars-and-oil-hows-the-daily-life-like&quot;&gt;For most people, thinking of Bahrain brings images of luxury, fast cars and oil. How’s the daily life like?&lt;/h3&gt;
+
+&lt;p&gt;Haha! Daily life is a little different. Of course you do see the luxury and the fast cars. But I find every day life here in Bahrain not that dissimilar to when I was back in the UK. Some things are easier and some are harder. English is widely spoken, so I’ve not struggled there! Food deliveries come at all hours and from all sorts of places. I can eat amazingly tasty meals for next to nothing or pay through my nose for it. Over 50% of the population of Bahrain are expats from the Philippines, India, Bangladesh, USA, UK and more – a lot of different cultures all mixing in here. The country’s got an incredibly relaxed feeling to it – which can be nice. It’s a welcome change from the pace of life in London.&lt;/p&gt;
+
+&lt;p&gt;However it can get frustrating when you need to get things done and no one’s working to your timetable. Then there’s the Internet. Yes, some websites are filtered here. That rarely impacts my day-to-day life, however the speed of the Internet does, especially working remotely. While I’ve got a lovely 4G router, speeds are rarely anything like you’d get on a 4G contract in the UK. Especially when the weekends hit (Which are Fridays and Saturdays here.) – I have to make an effort not to schedule any meetings on Fridays as I know I’ll just be competing with everyone else enjoying their weekend Internet time.&lt;/p&gt;
+
+&lt;h3 id=&quot;any-advice-for-your-18yo-self&quot;&gt;Any advice for your 18yo self?&lt;/h3&gt;
+
+&lt;p&gt;Plans are great. In theory. They give yourself something to work towards. A goal. And everyone needs a goal. But don’t freak out if the plan doesn’t quite come together. Plans aren’t definite. They’re flexible. Oh, and you’re more adaptable than you give yourself credit for. And don’t forget to look after your knees!&lt;br /&gt;
+—&lt;/p&gt;
+
+&lt;p&gt;Thank you again Jaina for taking the time to answer these questions, it was nice to get your insights and get to know you a little better.&lt;/p&gt;</content><author><name>Thanos</name></author><category term="interview" /><category term="jaina mistry" /><summary type="html">Continuing the mini interviews with web and email marketing professionals, this week I had the pleasure to interview Jaina Mistry.</summary></entry><entry><title type="html">Outlook Conditional Statements</title><link href="http://localhost:4000/outlook-conditional-statements/" rel="alternate" type="text/html" title="Outlook Conditional Statements" /><published>2015-04-15T09:00:04+02:00</published><updated>2015-04-15T09:00:04+02:00</updated><id>http://localhost:4000/outlook-conditional-statements</id><content type="html" xml:base="http://localhost:4000/outlook-conditional-statements/">&lt;p&gt;It’s not a big surprise when we need to write some specific CSS for our html email templates, in order to target Microsoft’s offline email client, our beloved &lt;strong&gt;Outlook&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;We can do that by using a simple &lt;if&gt; statement in the &amp;lt;head&amp;gt; of our document, known as a conditional statement:&lt;/if&gt;&lt;/p&gt;
+
+&lt;pre class=&quot;brush: css; title: ; notranslate&quot; title=&quot;&quot;&gt;&amp;lt;!--[if mso]&amp;gt;
+ // Only for Outlook (all versions)
+&amp;lt;![endif]--&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;We can take it even further from there and target specific versions of Outlook.&lt;/p&gt;
+
+&lt;h3 id=&quot;specific-outlook-conditional-statements&quot;&gt;Specific Outlook Conditional Statements&lt;/h3&gt;
+
+&lt;p&gt;First of all, take a note / screenshot of the numbers below, they are the versions of Outlook.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Outlook 2000 – Version 9&lt;/li&gt;
+  &lt;li&gt;Outlook 2002 – Version 10&lt;/li&gt;
+  &lt;li&gt;Outlook 2003 – Version 11&lt;/li&gt;
+  &lt;li&gt;Outlook 2007 – Version 12&lt;/li&gt;
+  &lt;li&gt;Outlook 2010 – Version 14&lt;/li&gt;
+  &lt;li&gt;Outlook 2013 – Version 15&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If we want to target Outlook 2007 and later&lt;/p&gt;
+
+&lt;pre class=&quot;brush: css; title: ; notranslate&quot; title=&quot;&quot;&gt;&amp;lt;!--[if gte mso 12]&amp;gt;
+ // Outlook 2007 and later
+&amp;lt;![endif]--&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;If we want to target only Outlook 2010&lt;/p&gt;
+
+&lt;pre class=&quot;brush: css; title: ; notranslate&quot; title=&quot;&quot;&gt;&amp;lt;!--[if mso 14]&amp;gt;
+ // Only Outlook 2010
+&amp;lt;![endif]--&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;Happy targeting!&lt;/p&gt;</content><author><name>Thanos</name></author><category term="conditional statements" /><category term="if mso" /><category term="mso" /><category term="outlook" /><category term="target outlook" /><summary type="html">It’s not a big surprise when we need to write some specific CSS for our html email templates, in order to target Microsoft’s offline email client, our beloved Outlook.</summary></entry></feed>
