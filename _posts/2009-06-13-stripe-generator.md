@@ -1,0 +1,16 @@
+---
+id: 102
+title: Stripe Generator
+date: 2009-06-13T15:41:26+00:00
+author: Thanos
+layout: post
+guid: http://localhost:8888/silverblog/?p=102
+permalink: /stripe-generator/
+categories:
+  - Web
+tags:
+  - Stripe Generator
+---
+Ο ευκολότερος τρόπος να κάνουμε αυτές τις μοντέρνες διαγώνιες γραμμές (stripes) διαφόρων χρωμάτων και διαμετρημάτων που βλέπουμε σε backgrounds και buttons είναι imo το stripegenerator.com όπου με τη δύναμη του Αίαντα (Ajax) μπορούμε εύκολα και γρήγορα να δημιουργήσουμε τους συνδυασμούς που μας ενδιαφέρουν.  
+Με το preview βλέπουμε τα αποτελέσματα και αναλόγως κάνουμε ότι αλλαγές θέλουμε και απλά κατεβάζουμε το .png και το χρησιμοποιούμε αναλόγως και με σύνεση!  
+Φυσικά είναι δωρεάν…
