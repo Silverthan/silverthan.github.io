@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-31T16:27:10+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Silverthan Blog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Email Marketing Reading List #013</title><link href="http://localhost:4000/email-marketing-reading-list-013/" rel="alternate" type="text/html" title="Email Marketing Reading List #013" /><published>2017-01-29T18:01:25+01:00</published><updated>2017-01-29T18:01:25+01:00</updated><id>http://localhost:4000/email-marketing-reading-list-013</id><content type="html" xml:base="http://localhost:4000/email-marketing-reading-list-013/">&lt;p&gt;Gain immediate insight into more Email Marketing content goodness! Our coveted Email Marketing Reading List continues with a few more great reads from all over the web. Once again, you will be able to gain insight into the world around you and the value you will receive here is second to none.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-13T21:17:28+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Silverthan Blog</title><subtitle>The personal blog of Thanos Karavasilis. Stories, photos, tips, anecdotes and tips regarding the web, email marketing, parenting, living abroad, Gibraltar, Spain and Greece.</subtitle><entry><title type="html">Test</title><link href="http://localhost:4000/2019/04/02/test.html" rel="alternate" type="text/html" title="Test" /><published>2019-04-02T00:00:00+02:00</published><updated>2019-04-02T00:00:00+02:00</updated><id>http://localhost:4000/2019/04/02/test</id><content type="html" xml:base="http://localhost:4000/2019/04/02/test.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Email Marketing Reading List #013</title><link href="http://localhost:4000/email-marketing-reading-list-013/" rel="alternate" type="text/html" title="Email Marketing Reading List #013" /><published>2017-01-29T18:01:25+01:00</published><updated>2017-01-29T18:01:25+01:00</updated><id>http://localhost:4000/email-marketing-reading-list-013</id><content type="html" xml:base="http://localhost:4000/email-marketing-reading-list-013/">&lt;p&gt;Gain immediate insight into more Email Marketing content goodness! Our coveted Email Marketing Reading List continues with a few more great reads from all over the web. Once again, you will be able to gain insight into the world around you and the value you will receive here is second to none.&lt;/p&gt;
 
 &lt;p&gt;That’s what makes the content worth it, as it’s genuine and very helpful. Just check it out right away.&lt;/p&gt;
 
@@ -280,42 +280,4 @@ As for tools, I’ve tried in vain to get the team using the likes of Asana and 
 &lt;p&gt;Plans are great. In theory. They give yourself something to work towards. A goal. And everyone needs a goal. But don’t freak out if the plan doesn’t quite come together. Plans aren’t definite. They’re flexible. Oh, and you’re more adaptable than you give yourself credit for. And don’t forget to look after your knees!&lt;br /&gt;
 —&lt;/p&gt;
 
-&lt;p&gt;Thank you again Jaina for taking the time to answer these questions, it was nice to get your insights and get to know you a little better.&lt;/p&gt;</content><author><name>Thanos</name></author><category term="interview" /><category term="jaina mistry" /><summary type="html">Continuing the mini interviews with web and email marketing professionals, this week I had the pleasure to interview Jaina Mistry.</summary></entry><entry><title type="html">Outlook Conditional Statements</title><link href="http://localhost:4000/outlook-conditional-statements/" rel="alternate" type="text/html" title="Outlook Conditional Statements" /><published>2015-04-15T09:00:04+02:00</published><updated>2015-04-15T09:00:04+02:00</updated><id>http://localhost:4000/outlook-conditional-statements</id><content type="html" xml:base="http://localhost:4000/outlook-conditional-statements/">&lt;p&gt;It’s not a big surprise when we need to write some specific CSS for our html email templates, in order to target Microsoft’s offline email client, our beloved &lt;strong&gt;Outlook&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;We can do that by using a simple &lt;if&gt; statement in the &amp;lt;head&amp;gt; of our document, known as a conditional statement:&lt;/if&gt;&lt;/p&gt;
-
-&lt;pre class=&quot;brush: css; title: ; notranslate&quot; title=&quot;&quot;&gt;&amp;lt;!--[if mso]&amp;gt;
- // Only for Outlook (all versions)
-&amp;lt;![endif]--&amp;gt;
-&lt;/pre&gt;
-
-&lt;p&gt;We can take it even further from there and target specific versions of Outlook.&lt;/p&gt;
-
-&lt;h3 id=&quot;specific-outlook-conditional-statements&quot;&gt;Specific Outlook Conditional Statements&lt;/h3&gt;
-
-&lt;p&gt;First of all, take a note / screenshot of the numbers below, they are the versions of Outlook.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Outlook 2000 – Version 9&lt;/li&gt;
-  &lt;li&gt;Outlook 2002 – Version 10&lt;/li&gt;
-  &lt;li&gt;Outlook 2003 – Version 11&lt;/li&gt;
-  &lt;li&gt;Outlook 2007 – Version 12&lt;/li&gt;
-  &lt;li&gt;Outlook 2010 – Version 14&lt;/li&gt;
-  &lt;li&gt;Outlook 2013 – Version 15&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If we want to target Outlook 2007 and later&lt;/p&gt;
-
-&lt;pre class=&quot;brush: css; title: ; notranslate&quot; title=&quot;&quot;&gt;&amp;lt;!--[if gte mso 12]&amp;gt;
- // Outlook 2007 and later
-&amp;lt;![endif]--&amp;gt;
-&lt;/pre&gt;
-
-&lt;p&gt;If we want to target only Outlook 2010&lt;/p&gt;
-
-&lt;pre class=&quot;brush: css; title: ; notranslate&quot; title=&quot;&quot;&gt;&amp;lt;!--[if mso 14]&amp;gt;
- // Only Outlook 2010
-&amp;lt;![endif]--&amp;gt;
-&lt;/pre&gt;
-
-&lt;p&gt;Happy targeting!&lt;/p&gt;</content><author><name>Thanos</name></author><category term="conditional statements" /><category term="if mso" /><category term="mso" /><category term="outlook" /><category term="target outlook" /><summary type="html">It’s not a big surprise when we need to write some specific CSS for our html email templates, in order to target Microsoft’s offline email client, our beloved Outlook.</summary></entry></feed>
+&lt;p&gt;Thank you again Jaina for taking the time to answer these questions, it was nice to get your insights and get to know you a little better.&lt;/p&gt;</content><author><name>Thanos</name></author><category term="interview" /><category term="jaina mistry" /><summary type="html">Continuing the mini interviews with web and email marketing professionals, this week I had the pleasure to interview Jaina Mistry.</summary></entry></feed>
