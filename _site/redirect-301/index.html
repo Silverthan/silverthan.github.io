@@ -48,11 +48,18 @@
   <div class="post-content e-content" itemprop="articleBody">
     <p>Ο καλύτερος τρόπος για να κάνουμε αναδρομολόγηση (redirect) από μια σελίδα σε μια άλλη είναι ο εξής:</p>
 
-<p>Header( “HTTP/1.1 301 Moved Permanently” );<br />
-Header( “Location: http://foverosite.com” );</p>
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?php</span>
+<span class="nb">header</span><span class="p">(</span><span class="s2">"HTTP/1.1 301 Moved Permanently"</span><span class="p">);</span>
+<span class="nb">header</span><span class="p">(</span><span class="s2">"Location: httpσ://foverosite.com"</span><span class="p">);</span>
+<span class="cp">?&gt;</span> 
+</code></pre></div></div>
 
 <p>Προφανώς στο Location βάζουμε τον προορισμό…<br />
 Το redirect μπορεί να μας φανεί χρήσιμο σε διάφορες περιπτώσεις όπως π.χ όταν έχουμε στήσει τη σελίδα μας στο http://foverosite.com και θέλουμε όταν οι χρήστες πηγαίνουν στο http://www.foverosite.com να τους πηγαίνει κατευθείαν εκεί που θέλουμε και να μην έχουμε 404 κλπ…</p>
+
+<p>Update: 
+Το παραπάνω παράδειγμα υλοποιείται και με άλλους τρόπους.
+Θα βρούμε να χρησιμοποιείται περισσότερο σε SEO disasters.</p>
 
   </div><a class="u-url" href="/redirect-301/" hidden></a>
 </article>
@@ -75,7 +82,7 @@ Header( “Location: http://foverosite.com” );</p>
 </div>
 
       <div class="footer-col footer-col-3">
-        <p>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</p>
+        <p>The personal blog of Thanos Karavasilis. Stories, photos, tips, anecdotes and tips regarding the web, email marketing, parenting, living abroad, Gibraltar, Spain and Greece.</p>
       </div>
     </div>
 
