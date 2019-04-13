@@ -1,10 +1,8 @@
 ---
-id: 58
 title: Open Coffee στο Ηράκλειο
 date: 2008-12-30T11:17:23+00:00
 author: Thanos
 layout: post
-guid: http://localhost:8888/silverblog/?p=58
 permalink: /open-coffee-sto-iraklio/
 categories:
   - Web

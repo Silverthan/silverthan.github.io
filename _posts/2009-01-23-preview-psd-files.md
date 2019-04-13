@@ -10,6 +10,7 @@ categories:
   - Web
 tags:
   - preview psd files
+  - tools
 ---
 Κατεβάζουμε αυτό το <a href="http://ps.herjern.com/?dl=3" target="_blank">αρχειάκι</a> και…
 
