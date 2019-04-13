@@ -1,15 +1,14 @@
 ---
-id: 300
 title: Delivery στο Ηράκλειο
 date: 2008-10-03T22:47:10+00:00
 author: Thanos
 layout: post
-guid: http://localhost:8888/silverblog/?p=29
 permalink: /delivery-sto-iraklio/
 categories:
   - Web
 tags:
-  - heraklion delivery
+  - Ηράκλειο
+  - food delivery
 ---
 Πόλεμος ξέσπασε κυρίες και κύριοι στην κατά τα άλλα φιλήσυχη  web κοινότητα του Ηρακλείου, με το ταυτόχρονο (?) launch 2 ιστοσελίδων αποφασισμένων να ψηφιοποιήσουν τους καταλόγους των αμέτρητων deliverάδικων της πόλης, ώστε να είναι διαθέσιμες online.  
 Kudos καταρχήν για την προσπαθεια και το concept.  

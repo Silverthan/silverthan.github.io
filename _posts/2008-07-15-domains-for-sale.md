@@ -1,10 +1,8 @@
 ---
-id: 23
 title: Domains for sale
 date: 2008-07-15T04:33:29+00:00
 author: Thanos
 layout: post
-guid: http://localhost:8888/silverblog/?p=23
 permalink: /domains-for-sale/
 categories:
   - Web

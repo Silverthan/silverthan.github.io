@@ -1,10 +1,8 @@
 ---
-id: 25
 title: Save the Developers
 date: 2008-08-30T14:00:30+00:00
 author: Thanos
 layout: post
-guid: http://localhost:8888/silverblog/?p=25
 permalink: /save-the-developers/
 categories:
   - Web
