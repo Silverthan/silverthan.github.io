@@ -1,10 +1,8 @@
 ---
-id: 81
 title: Empty Ad Spots
 date: 2009-03-02T17:43:28+00:00
 author: Thanos
 layout: post
-guid: http://localhost:8888/silverblog/?p=81
 permalink: /empty-ad-spots/
 categories:
   - Web

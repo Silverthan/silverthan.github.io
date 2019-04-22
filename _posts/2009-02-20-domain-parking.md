@@ -1,10 +1,8 @@
 ---
-id: 772
 title: Domain Parking
 date: 2009-02-20T22:36:29+00:00
 author: Thanos
 layout: post
-guid: http://localhost:8888/silverblog/?p=75
 permalink: /domain-parking/
 categories:
   - Web
