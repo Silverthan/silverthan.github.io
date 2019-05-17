@@ -1,10 +1,8 @@
 ---
-id: 156
 title: Το καλοκαίρι ξεκινάει αύριο
 date: 2010-05-31T16:34:11+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=156
 permalink: /to-kalokairi-ksekinaei-aurio/
 categories:
   - Silverthan

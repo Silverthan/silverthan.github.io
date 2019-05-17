@@ -7,7 +7,7 @@ permalink: /the-future-of-web-design-leme-tora/
 categories:
   - Web
 tags:
-  - getmecontent.com
+  - content
 ---
 Πρόσφατα κέρδισα σε ένα διαγωνισμό του noupe ένα άρθρο από το getmecontent.com. Με ρώτησε λοιπόν ο δικός σου, τι άρθρο θέλω να μου γράψει, να του δώσω κάποια keywords κτλ…  
 

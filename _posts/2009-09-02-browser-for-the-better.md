@@ -1,10 +1,8 @@
 ---
-id: 108
 title: Browser for the better
 date: 2009-09-02T15:00:52+00:00
 author: Thanos
 layout: post
-guid: http://localhost:8888/silverblog/?p=108
 permalink: /browser-for-the-better/
 categories:
   - Web

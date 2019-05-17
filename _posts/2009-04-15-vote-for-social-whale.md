@@ -1,10 +1,8 @@
 ---
-id: 92
 title: Vote for Social Whale
 date: 2009-04-15T15:21:07+00:00
 author: Thanos
 layout: post
-guid: http://localhost:8888/silverblog/?p=92
 permalink: /vote-for-social-whale/
 categories:
   - Web

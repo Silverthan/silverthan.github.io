@@ -1,11 +1,9 @@
 ---
-id: 775
 title: Μακριά από Visibone
 date: 2009-08-20T15:44:55+00:00
 author: Thanos
 layout: post
-guid: http://localhost:8888/silverblog/?p=106
-permalink: '/%ce%bc%ce%b1%ce%ba%cf%81%ce%b9%ce%ac-%ce%b1%cf%80%cf%8c-visibone/'
+permalink: '/makria-apo-visibone/'
 categories:
   - Web
 tags:

@@ -1,10 +1,8 @@
 ---
-id: 104
 title: Best iPhone app ever
 date: 2009-07-22T15:43:14+00:00
 author: Thanos
 layout: post
-guid: http://localhost:8888/silverblog/?p=104
 permalink: /best-iphone-app-ever/
 categories:
   - Web

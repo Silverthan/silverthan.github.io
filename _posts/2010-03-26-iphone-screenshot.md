@@ -1,10 +1,8 @@
 ---
-id: 143
 title: iPhone screenshot
 date: 2010-03-26T15:32:44+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=143
 permalink: /iphone-screenshot/
 categories:
   - Web

@@ -1,10 +1,8 @@
 ---
-id: 774
 title: 'Domains for sale #2'
 date: 2009-05-02T15:40:07+00:00
 author: Thanos
 layout: post
-guid: http://localhost:8888/silverblog/?p=100
 permalink: /domains-for-sale-2/
 categories:
   - Web

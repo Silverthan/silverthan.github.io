@@ -1,10 +1,8 @@
 ---
-id: 102
 title: Stripe Generator
 date: 2009-06-13T15:41:26+00:00
 author: Thanos
 layout: post
-guid: http://localhost:8888/silverblog/?p=102
 permalink: /stripe-generator/
 categories:
   - Web

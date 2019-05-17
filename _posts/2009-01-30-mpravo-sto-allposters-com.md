@@ -1,15 +1,13 @@
 ---
-id: 64
 title: Μπράβο στο allposters.com
 date: 2009-01-30T13:23:44+00:00
 author: Thanos
 layout: post
-guid: http://localhost:8888/silverblog/?p=64
 permalink: /mpravo-sto-allposters-com/
 categories:
   - Web
 tags:
-  - allposters.com
+  - shopping
 ---
 Παρήγγειλα και εγώ κάτι αφισούλες απο το allposters.com και ομολογώ ότι στην αρχή ήμουν κάπως επιφυλακτικός αφού δε δεχόταν τη πληρωμή μέσω paypal (πετούσε κάποιο error) και ο μόνος δρόμος ήταν η πιστωτική.  
 Τελικά μετά από μια εβδομάδα που ξαναδοκίμασα, όλα δούλεψαν ρολόι.  
