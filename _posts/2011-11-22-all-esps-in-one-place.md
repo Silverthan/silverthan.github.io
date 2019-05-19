@@ -1,10 +1,8 @@
 ---
-id: 75
-title: 'All ESP&#8217;s in one place'
+title: 'All ESPs in one place'
 date: 2011-11-22T08:56:59+00:00
 author: Thanos
 layout: post
-guid: http://www.55emails.com/?p=75
 permalink: /all-esps-in-one-place/
 categories:
   - Email Marketing

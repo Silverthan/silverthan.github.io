@@ -1,17 +1,9 @@
 ---
-id: 198
 title: Περί ξενιτιάς
 date: 2011-11-08T11:03:56+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=198
 permalink: /peri-ksenitias/
-wpzoom_post_title:
-  - 'Yes'
-wpzoom_post_readmore:
-  - 'Yes'
-wpzoom_post_url:
-  - ""
 categories:
   - Gibraltar
 tags:

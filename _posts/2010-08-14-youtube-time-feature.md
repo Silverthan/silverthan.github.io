@@ -1,10 +1,8 @@
 ---
-id: 165
 title: Youtube time feature
 date: 2010-08-14T13:39:21+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=165
 permalink: /youtube-time-feature/
 categories:
   - Web

@@ -1,10 +1,8 @@
 ---
-id: 193
 title: Πως ΘΑ κόψω το κάπνισμα
 date: 2011-10-22T08:00:36+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=193
 permalink: /pos-tha-kopso-to-kapnisma/
 categories:
   - Silverthan

@@ -1,10 +1,8 @@
 ---
-id: 45
 title: Breakdown of ESP qualities
 date: 2011-06-09T09:08:37+00:00
 author: Thanos
 layout: post
-guid: http://www.55emails.com/?p=45
 permalink: /breakdown-of-esp-qualities/
 categories:
   - Email Marketing

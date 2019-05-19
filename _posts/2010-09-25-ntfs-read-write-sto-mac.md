@@ -1,10 +1,8 @@
 ---
-id: 163
 title: NTFS read-write στο MAC
 date: 2010-09-25T10:31:03+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=163
 permalink: /ntfs-read-write-sto-mac/
 categories:
   - Web

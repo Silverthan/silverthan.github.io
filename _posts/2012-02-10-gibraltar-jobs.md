@@ -12,7 +12,7 @@ tags:
   - Gibraltar
   - jobs
 ---
-Όπως έχω αναφέρει αρκέτες φορές στο <a title="Silverthan" href="http://www.twitter.com/silverthan" target="_blank">twitter</a> παίζουν αρκετές δουλειές εδώ στο [Γιβραλτάρ](http://blog.silverthan.gr/category/gibraltar/ "Gibraltar posts"), όχι μόνο τεχνικές και όχι μόνο σε τηλεφωνικό κέντρο. Δείτε παρακάτω μια λίστα με τα open positions:
+Όπως έχω αναφέρει αρκέτες φορές στο <a title="Silverthan" href="http://www.twitter.com/silverthan" target="_blank">twitter</a> παίζουν αρκετές δουλειές εδώ στο Γιβραλτάρ, όχι μόνο τεχνικές και όχι μόνο σε τηλεφωνικό κέντρο. Δείτε παρακάτω μια λίστα με τα open positions αυτού του μήνα:
 
   * Senior PHP Developer
   * Application Security Specialist

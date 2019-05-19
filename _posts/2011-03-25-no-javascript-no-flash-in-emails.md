@@ -1,10 +1,8 @@
 ---
-id: 29
 title: No Javascript, no Flash in emails
 date: 2011-03-25T19:45:42+00:00
 author: Thanos
 layout: post
-guid: http://www.55emails.com/?p=29
 permalink: /no-javascript-no-flash-in-emails/
 categories:
   - Email Marketing

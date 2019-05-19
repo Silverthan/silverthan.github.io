@@ -1,16 +1,13 @@
 ---
-id: 69
 title: Where to report spam
 date: 2011-10-03T11:25:03+00:00
 author: Thanos
 layout: post
-guid: http://www.55emails.com/?p=69
 permalink: /where-to-report-spam/
 categories:
   - Email Marketing
 tags:
-  - report
-  - spam
+  - report spam
   - spamcop
 ---
 You&#8217;ve got yet another spam email and you want to report it? There is a service that you can do that, <a title="Spamcop Website" href="http://www.spamcop.net" target="_blank">Spamcop!</a>

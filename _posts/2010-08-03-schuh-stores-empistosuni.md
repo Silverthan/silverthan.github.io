@@ -1,15 +1,14 @@
 ---
-id: 152
 title: 'Schuh stores &#8211; εμπιστοσύνη'
 date: 2010-08-03T08:32:17+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=152
 permalink: /schuh-stores-empistosuni/
 categories:
   - Web
 tags:
   - Schuh
+  - shopping
 ---
 Πριν κάνα δίμηνο χτύπησα κάτι Diesel από το συγκεκριμένο μαγαζάκι και έμεινα πολύ ευχαριστημένος. Πολύ γρήγορη παράδοση, τα μεταφορικά σε λογικές τιμές, ο delivery στην πόρτα (αφού είχε ήδη έρθει 3 φορές).
 

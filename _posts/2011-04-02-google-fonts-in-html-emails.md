@@ -1,10 +1,8 @@
 ---
-id: 37
 title: Google fonts in html emails
 date: 2011-04-02T15:20:07+00:00
 author: Thanos
 layout: post
-guid: http://www.55emails.com/?p=37
 permalink: /google-fonts-in-html-emails/
 categories:
   - Email Marketing

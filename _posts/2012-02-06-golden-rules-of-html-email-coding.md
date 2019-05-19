@@ -1,10 +1,8 @@
 ---
-id: 55
 title: Golden Rules of HTML Email Coding
 date: 2012-02-06T09:07:28+00:00
 author: Thanos
 layout: post
-guid: http://www.55emails.com/?p=55
 permalink: /golden-rules-of-html-email-coding/
 categories:
   - Email Marketing

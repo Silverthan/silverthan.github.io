@@ -1,10 +1,8 @@
 ---
-id: 57
 title: Protect your email address
 date: 2011-09-08T10:55:50+00:00
 author: Thanos
 layout: post
-guid: http://www.55emails.com/?p=57
 permalink: /protect-your-email-address/
 categories:
   - Email Marketing
@@ -21,5 +19,3 @@ So, how can you protect your email address from hackers?
   * Hide it using entities or javascript (special article coming soon)
 
 Keep them safe!
-
-&nbsp;

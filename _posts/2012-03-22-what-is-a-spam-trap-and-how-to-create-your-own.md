@@ -18,8 +18,8 @@ ESPs use spam traps in their war against spammers, figuring out whick IP address
 
 ### How can you make your own spam trap?
 
-The only thing you have to do is create a new email address with the ESP of your choice (it doesn&#8217;t matter if it&#8217;s gmail, hotmail, yahoo or your own domain) and put it somewhere in your website or your blog.
+The only thing you have to do is create a new email address with the ESP of your choice (it doesn't matter if it's gmail, hotmail, yahoo or your own domain) and put it somewhere in your website or your blog.
 
-Make sure you don&#8217;t use this email in any registration form or to opt-in for some newsletter. The spammers have special programs called crawlers that are collecting these email addresses.
+Make sure you don't use this email in any registration form or to opt-in for some newsletter. The spammers have special programs called crawlers that are collecting these email addresses.
 
 When you start receiving emails in that address you will know 100% it is sent from a spammer. You can then [report it](http://www.55emails.com/where-to-report-spam/ "Where to report spam") if you wish.

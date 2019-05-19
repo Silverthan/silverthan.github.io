@@ -1,10 +1,8 @@
 ---
-id: 773
 title: Gmail line break fix
 date: 2011-02-10T08:52:23+00:00
 author: Thanos
 layout: post
-guid: http://www.55emails.com/?p=3
 permalink: /gmail-line-break-fix/
 categories:
   - Email Marketing
@@ -18,6 +16,7 @@ There is a fix for that and it is quite simple. We need to define the image as a
 
 See the code below:
 
-<pre class="brush: xml; title: ; notranslate" title="">&lt;img style="display: block;" src="http://www.mysite.com/cat.jpg" /&gt;
-
-</pre>
+```css
+<img style="display: block;" src="http://www.mysite.com/cat.jpg" />
+```
+ 
