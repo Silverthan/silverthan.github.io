@@ -1,10 +1,8 @@
 ---
-id: 113
 title: What is a Spam Trap and How to Create Your Own
 date: 2012-03-22T10:06:29+00:00
 author: Thanos
 layout: post
-guid: http://www.55emails.com/?p=113
 permalink: /what-is-a-spam-trap-and-how-to-create-your-own/
 categories:
   - Email Marketing

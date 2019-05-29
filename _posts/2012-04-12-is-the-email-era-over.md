@@ -15,7 +15,7 @@ tags:
 ---
 A question all the email marketing professionals are asking or being asked from time to time.
 
-#### When is the email era going to end?
+### When is the email era going to end?
 
 Well, for now it doesn&#8217;t look that our beloved email is in danger. I read some great answers the other day at quora.
 

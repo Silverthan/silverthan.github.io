@@ -1,18 +1,13 @@
 ---
-id: 140
 title: Hotmail and Line Height
 date: 2012-08-09T12:34:17+00:00
 author: Thanos
 layout: post
-guid: http://www.55emails.com/?p=140
 permalink: /hotmail-and-line-height/
 categories:
   - Email Marketing
 tags:
-  - fix
-  - hotmail
-  - line-height
-  - problem
+  - fix hotmail line height problem
 ---
 Hotmail and line-height are not friends to the html email coder.
 
@@ -20,11 +15,11 @@ Apparently Hotmail adds a class and keeps line-height to default, even if you tr
 
 To solve this problem which can drive you crazy, the only thing you have to do is insert the snippet below in the head of your html email template.
 
-[pre lang=&#8221;css&#8221;]  
+```css
 .ExternalClass * {  
 Line-height: 100%;  
 }  
-[/pre]
+```
 
 You can then define the line-height without fear of breaking in the popular ESP.
 
