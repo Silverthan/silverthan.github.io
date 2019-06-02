@@ -1,22 +1,14 @@
 ---
-id: 373
-title: 'Θέσεις εργασίας στο Γιβραλτάρ &#8211; Οκτώβρης'
+title: 'Θέσεις εργασίας στο Γιβραλτάρ - Οκτώβρης 2012'
 date: 2012-10-24T07:42:51+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=373
 permalink: /gibraltar-jobs-october12/
-wpzoom_post_title:
-  - 'Yes'
-wpzoom_post_readmore:
-  - 'No'
-wpzoom_post_url:
-  - ""
 categories:
   - Gibraltar
 tags:
   - jobs
-  - δουλειές γιβραλτάρ
+  - δουλειά στο γιβραλτάρ
 ---
 Δείτε παρακάτω τη λίστα με τις ανοιχτές θέσεις που ζητούνται αυτή τη στιγμή στο Γιβραλτάρ.
 

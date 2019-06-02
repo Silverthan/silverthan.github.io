@@ -13,12 +13,12 @@ tags:
   - mobile templates
   - responsive
 ---
-With millions and millions of smartphones being sold every month, data plans going cheaper and free wifi all over the place, people to tend to surf the web with their tiny (compared to a laptop or desktop) screens. And they will also read your email in that 3,5&#8243; screen.
+With millions and millions of smartphones being sold every month, data plans going cheaper and free wifi all over the place, people to tend to surf the web with their tiny (compared to a laptop or desktop) screens. And they will also read your email in that 3,5 inches screen.
 
-#### Remember that email with 650px width and 11px font size?
+### Remember that email with 650px width and 11px font size?
 
 Well, this is unreadable on a smartphone. If we are lucky, people will save it for reading later on a bigger screen, but most of the time your subscribers will just get frustrated and delete it with no mercy. Catch them in a bad mood and they will unsubscribe as well.
 
-Are you already coding with the mobiles&#8217; screens resolution(s) in mind?
+Are you already coding with the mobile screen resolution(s) in mind?
 
-Let&#8217;s talk about it in the comments.
+Let's talk about it in on twitter.
