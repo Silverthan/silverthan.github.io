@@ -1,17 +1,10 @@
 ---
-id: 430
 title: Φαψεβοοκ
 date: 2012-12-07T12:47:46+00:00
 author: Thanos
 layout: post
 guid: http://blog.silverthan.gr/?p=430
 permalink: '/%cf%86%ce%b1%cf%88%ce%b5%ce%b2%ce%bf%ce%bf%ce%ba/'
-wpzoom_post_title:
-  - 'Yes'
-wpzoom_post_readmore:
-  - 'No'
-wpzoom_post_url:
-  - ""
 categories:
   - Web
 tags:
