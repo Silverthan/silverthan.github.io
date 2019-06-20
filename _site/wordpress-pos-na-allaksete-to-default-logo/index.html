@@ -52,13 +52,14 @@
 
 <p>Βρείτε το functions.php και κάντε κλικ στο edit. Κάντε αντιγραφή / επικόλληση τον παρακάτω κώδικα, μόνο σιγουρευτείτε ότι έχετε ήδη ανεβάσει το λόγότυπο και το url είναι σωστό.</p>
 
-<pre class="brush: php; title: ; notranslate" title="">function custom_login_logo() {
-	echo '&lt;style type="text/css"&gt;
-	h1 a { background-image: url('.get_bloginfo('template_directory').'/images/custom-login-logo.png) !important; }
-	&lt;/style&gt;';
-}
-add_action('login_head', 'custom_login_logo');
-</pre>
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">function</span> <span class="nf">custom_login_logo</span><span class="p">()</span> <span class="p">{</span>
+	<span class="k">echo</span> <span class="s1">'&lt;style type="text/css"&gt;;
+  h1 a { background-image: url('</span><span class="o">.</span><span class="nx">get_bloginfo</span><span class="p">(</span><span class="s1">'template_directory'</span><span class="p">)</span>
+  <span class="o">.</span><span class="s1">'/images/custom-login-logo.png) !important; }
+	&lt;/style&gt;'</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="nx">add_action</span><span class="p">(</span><span class="s1">'login_head'</span><span class="p">,</span> <span class="s1">'custom_login_logo'</span><span class="p">);</span>
+</code></pre></div></div>
 
 <p>Αυτό ήταν!</p>
 

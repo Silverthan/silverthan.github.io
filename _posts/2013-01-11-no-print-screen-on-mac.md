@@ -1,17 +1,9 @@
 ---
-id: 475
 title: No Print Screen on Mac
 date: 2013-01-11T13:15:07+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=475
 permalink: /no-print-screen-on-mac/
-wpzoom_post_title:
-  - 'Yes'
-wpzoom_post_readmore:
-  - 'No'
-wpzoom_post_url:
-  - ""
 categories:
   - Web
 tags:

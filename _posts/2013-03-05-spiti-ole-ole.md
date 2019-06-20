@@ -1,17 +1,9 @@
 ---
-id: 577
 title: Σπίτι ολέ ολέ
 date: 2013-03-05T07:41:11+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=577
 permalink: /spiti-ole-ole/
-wpzoom_post_title:
-  - 'Yes'
-wpzoom_post_readmore:
-  - 'Yes'
-wpzoom_post_url:
-  - ""
 categories:
   - Parenting
 tags:

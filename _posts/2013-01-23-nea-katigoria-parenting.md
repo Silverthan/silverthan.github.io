@@ -1,17 +1,9 @@
 ---
-id: 520
 title: Νέα κατηγορία Parenting
 date: 2013-01-23T12:50:37+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=520
 permalink: /nea-katigoria-parenting/
-wpzoom_post_title:
-  - 'Yes'
-wpzoom_post_readmore:
-  - 'No'
-wpzoom_post_url:
-  - ""
 categories:
   - Parenting
 tags:

@@ -1,23 +1,14 @@
 ---
-id: 494
 title: Twitter shortcodes
 date: 2013-01-20T11:55:48+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=494
 permalink: /twitter-shortcodes/
-wpzoom_post_title:
-  - 'Yes'
-wpzoom_post_readmore:
-  - 'Yes'
-wpzoom_post_url:
-  - ""
 categories:
   - Web
 tags:
   - abbreviations
   - Twitter shortcodes
-  - αρχικά
 ---
 Χρησιμοποιείτε το τουίτερ εδώ και αρκετό καιρό αλλά ακόμα και τώρα κάποια πράγματα δεν τα καταλαβαίνετε πλήρως. Για παράδειγμα αυτά τα αρχικά (shortcodes) που βλέπετε μπροστά από tweets.
 

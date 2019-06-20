@@ -1,17 +1,9 @@
 ---
-id: 458
 title: Paris Time Lapse
 date: 2013-02-03T14:13:49+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=458
 permalink: /paris-time-lapse-video/
-wpzoom_post_title:
-  - 'Yes'
-wpzoom_post_readmore:
-  - 'No'
-wpzoom_post_url:
-  - ""
 categories:
   - Web
 tags:

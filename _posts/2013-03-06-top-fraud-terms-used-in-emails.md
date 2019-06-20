@@ -1,15 +1,13 @@
 ---
-id: 142
 title: Top fraud terms used in emails
 date: 2013-03-06T12:41:34+00:00
 author: Thanos
 layout: post
-guid: http://www.55emails.com/?p=142
 permalink: /top-fraud-terms-used-in-emails/
 categories:
   - Email Marketing
 tags:
-  - copy
+  - corporate fraudsters
   - email
   - fraud
   - scam
@@ -29,4 +27,3 @@ The top fraud words and phrases in email conversations are
   9. Not ethical
  10. Off the books
 
-_<a href="http://www.computerworlduk.com/news/security/3418844/top-email-terms-used-by-corporate-fraudsters-published-by-fbi/" target="_blank">via</a>_

@@ -1,24 +1,16 @@
 ---
-id: 533
 title: 'Γιβραλτάρ: Θέσεις εργασίας (Φεβρουάριος &#8217;13)'
 date: 2013-02-08T16:37:42+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=533
 permalink: /gibraltar-jobs-february13/
-wpzoom_post_title:
-  - 'Yes'
-wpzoom_post_readmore:
-  - 'Yes'
-wpzoom_post_url:
-  - ""
 categories:
   - Gibraltar
 tags:
   - jobs
   - δουλειά στο γιβραλτάρ
 ---
-Παρακάτω θα βρείτε όλες τις ανοιχτές θέσεις εργασίας στο [Γιβραλτάρ](http://blog.silverthan.gr/category/gibraltar/ "Γιβραλτάρ") αυτή τη στιγμή. Αν έχετε απορίες μπορείτε να επικοινωνήσετε μαζί μου.
+Παρακάτω θα βρείτε όλες τις ανοιχτές θέσεις εργασίας στο Γιβραλτάρ αυτή τη στιγμή. Αν έχετε απορίες μπορείτε να επικοινωνήσετε μαζί μου.
 
 ### Customer Service, Sales & Languages Positions:
 
