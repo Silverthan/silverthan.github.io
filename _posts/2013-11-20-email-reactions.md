@@ -1,10 +1,8 @@
 ---
-id: 257
 title: Email Reactions
 date: 2013-11-20T12:17:52+00:00
 author: Thanos
 layout: post
-guid: http://www.55emails.com/?p=257
 permalink: /email-reactions/
 categories:
   - Email Marketing

@@ -1,23 +1,14 @@
 ---
-id: 712
 title: Κλείνει η Αλταβίστα
 date: 2013-06-29T19:00:44+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=712
 permalink: /kleinei-h-altavista/
-wpzoom_post_title:
-  - 'Yes'
-wpzoom_post_readmore:
-  - 'Yes'
-wpzoom_post_url:
-  - ""
 categories:
   - Web
 tags:
   - yahoo
   - αλταβίστα
-  - υαηοο
 ---
 Ποιος θυμάται την [Altavista](http://www.altavista.com/ "http://www.altavista.com/")? Όχι δεν είναι facebook group για γεννημένους την δεκαετία του 80&#8230;
 

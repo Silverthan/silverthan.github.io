@@ -1,17 +1,9 @@
 ---
-id: 497
 title: Αντιμετωπίζοντας την αναβλητικότητα
 date: 2013-04-15T13:57:32+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=497
 permalink: /antimetopizontas-tin-anavlitikotita/
-wpzoom_post_title:
-  - 'Yes'
-wpzoom_post_readmore:
-  - 'Yes'
-wpzoom_post_url:
-  - ""
 categories:
   - Web
 tags:

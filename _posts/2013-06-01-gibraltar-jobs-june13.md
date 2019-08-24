@@ -6,16 +6,9 @@ author: Thanos
 layout: post
 guid: http://blog.silverthan.gr/?p=699
 permalink: /gibraltar-jobs-june13/
-wpzoom_post_title:
-  - 'Yes'
-wpzoom_post_readmore:
-  - 'Yes'
-wpzoom_post_url:
-  - ""
 categories:
   - Gibraltar
 tags:
-  - Gibraltar
   - jobs
   - δουλειά στο γιβραλτάρ
 ---

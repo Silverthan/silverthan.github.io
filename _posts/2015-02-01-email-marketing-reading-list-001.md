@@ -1,15 +1,15 @@
 ---
-id: 805
 title: 'Email Marketing Reading List #001'
 date: 2015-02-01T09:07:17+00:00
 author: Thanos
 layout: post
-guid: http://silverthan.com/?p=805
 permalink: /email-marketing-reading-list-001/
 categories:
   - Email Marketing
+tags:
+  - email marketing reading list
 ---
-From this Sunday and (hopefully) every Sunday from now I will post 5 email marketing articles that cought my attention during the week.The week is over but there&#8217;s still some time to catch up with our reading. Here&#8217;s 5 recommended articles to enjoy with your coffee or add to your email marketing reading list for later.
+From this Sunday and (hopefully) every Sunday from now I will post 5 email marketing articles that cought my attention during the week.The week is over but there's still some time to catch up with our reading. Here's 5 recommended articles to enjoy with your coffee or add to your email marketing reading list for later.
 
 ### [Mailbox preview and HTML content](https://wordtothewise.com/2015/01/mailbox-preview-and-html-content/)
 

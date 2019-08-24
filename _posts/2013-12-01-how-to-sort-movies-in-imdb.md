@@ -1,10 +1,8 @@
 ---
-id: 758
 title: How to sort movies in IMDb
 date: 2013-12-01T18:39:54+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=758
 permalink: /how-to-sort-movies-in-imdb/
 categories:
   - Web
@@ -15,9 +13,6 @@ tags:
   - sort
   - sorting
 ---
-<p style="text-align: center;">
-  <img class="size-full wp-image-761 aligncenter" alt="Sorting movies by rating" src="http://blog.silverthan.gr/wp-content/uploads/2013/11/imdb-sort-movies-rating-01.jpg" width="620" height="200" />
-</p>
 
 We are looking for new movies from time to time and IMDB is one of the best places to go to.
 

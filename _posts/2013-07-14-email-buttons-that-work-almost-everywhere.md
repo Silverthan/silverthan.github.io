@@ -1,10 +1,8 @@
 ---
-id: 189
 title: Email Buttons that Work (almost) Everywhere
 date: 2013-07-14T08:35:12+00:00
 author: Thanos
 layout: post
-guid: http://www.55emails.com/?p=189
 permalink: /email-buttons-that-work-almost-everywhere/
 categories:
   - Email Marketing

@@ -1,10 +1,8 @@
 ---
-id: 736
 title: 'Γιβραλταρ: Θεσεις Εργασιας (Σεπτεμβριος &#8217;13)'
 date: 2013-09-20T13:20:08+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=736
 permalink: /gibraltar-jobs-sep13/
 categories:
   - Gibraltar
@@ -33,6 +31,6 @@ Front End Developer
 Head of E-Gaming  
 BI Data Analyst  
 Sales Agent Japanese, Swedish & Italian, Spanish or Dutch  
-VIP Host &#8211; Swedish, German or Finnish  
+VIP Host - Swedish, German or Finnish  
 Hebrew Customer Service  
-Sales & Revenue Manager &#8211; 6 month project &#8211; non-gaming
+Sales & Revenue Manager - 6 month project - non-gaming

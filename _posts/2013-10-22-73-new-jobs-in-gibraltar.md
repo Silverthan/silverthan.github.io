@@ -1,10 +1,8 @@
 ---
-id: 743
 title: 73 νεες θεσεις εργασιας στο Γιβραλταρ
 date: 2013-10-22T08:16:26+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=743
 permalink: /73-new-jobs-in-gibraltar/
 categories:
   - Gibraltar
@@ -47,8 +45,8 @@ Swedish Country Manager
 Trainee Financial Planning Analyst  
 Slots Executive  
 Financial Planning Executive  
-Java Script &#8211; contractor  
-Web Design- contractor  
+Java Script - contractor  
+Web Design - contractor  
 Copy Writer – contractor  
 Release Executive  
 Player Operations Executive – Slots – Games  

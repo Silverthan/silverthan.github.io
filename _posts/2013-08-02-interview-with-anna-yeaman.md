@@ -1,10 +1,8 @@
 ---
-id: 196
 title: Interview with Anna Yeaman
 date: 2013-08-02T06:00:31+00:00
 author: Thanos
 layout: post
-guid: http://www.55emails.com/?p=196
 permalink: /interview-with-anna-yeaman/
 categories:
   - Email Marketing

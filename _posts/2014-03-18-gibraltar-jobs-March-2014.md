@@ -1,16 +1,12 @@
 ---
-id: 782
 title: 'Γιβραλταρ: Θεσεις εργασιας (Μαρτιος 2014)'
 date: 2014-03-18T14:41:53+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=776
-permalink: '/%ce%b3%ce%b9%ce%b2%cf%81%ce%b1%ce%bb%cf%84%ce%b1%cf%81-%ce%b8%ce%b5%cf%83%ce%b5%ce%b9%cf%82-%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%b9%ce%b1%cf%82-%ce%bc%ce%b1%cf%81%cf%84%ce%b9%ce%bf%cf%82-2014/'
 categories:
   - Gibraltar
 tags:
-  - Gibraltar
-  - jobs
+  - Gibraltar Jobs
   - δουλειά στο γιβραλτάρ
 ---
 Account Verification Specialist  

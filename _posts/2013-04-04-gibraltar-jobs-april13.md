@@ -1,17 +1,9 @@
 ---
-id: 670
 title: 'Γιβραλτάρ: Θέσεις εργασίας (Απρίλης&#8217;13)'
 date: 2013-04-04T06:56:29+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=670
 permalink: /gibraltar-jobs-april13/
-wpzoom_post_title:
-  - 'Yes'
-wpzoom_post_readmore:
-  - 'Yes'
-wpzoom_post_url:
-  - ""
 categories:
   - Gibraltar
 tags:
@@ -19,7 +11,7 @@ tags:
   - jobs
   - δουλειά στο γιβραλτάρ
 ---
-Γεμάτη νέες θέσεις εργασίας η λίστα μας για τον Απρίλιο στο [Γιβραλτάρ](http://blog.silverthan.gr/category/gibraltar/ "Γιβραλτάρ"). Μπορείτε να επικοινωνήσετε μαζί μου για περισσότερες λεπτομέρειες.
+Γεμάτη νέες θέσεις εργασίας η λίστα μας για τον Απρίλιο στο Γιβραλτάρ. Μπορείτε να επικοινωνήσετε μαζί μου για περισσότερες λεπτομέρειες.
 
 HTML5 Developer  
 Senior Java Developer  
@@ -32,9 +24,7 @@ Senior Producer – Portals
 Senior Games Mathematics Designer  
 User Experience Manager  
 Software Development Manager  
-Financial Controller<!--more-->
-
-  
+Financial Controller
 HTML5 Games Developer  
 Project Manager, Games  
 Graphic Designer, Games  

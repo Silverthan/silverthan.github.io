@@ -1,17 +1,9 @@
 ---
-id: 468
 title: Η φύση σε HDR
 date: 2013-05-03T14:37:30+00:00
 author: Thanos
 layout: post
-guid: http://blog.silverthan.gr/?p=468
 permalink: /nature-timelapse-hdr/
-wpzoom_post_title:
-  - 'Yes'
-wpzoom_post_readmore:
-  - 'No'
-wpzoom_post_url:
-  - ""
 categories:
   - Web
 tags:

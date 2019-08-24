@@ -6,12 +6,6 @@ author: Thanos
 layout: post
 guid: http://blog.silverthan.gr/?p=706
 permalink: /how-to-upload-your-own-fonts-to-google-web-fonts/
-wpzoom_post_title:
-  - 'Yes'
-wpzoom_post_readmore:
-  - 'No'
-wpzoom_post_url:
-  - ""
 categories:
   - Web
 tags:
